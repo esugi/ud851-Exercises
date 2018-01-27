@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
                  * clear as possible.
                  */
                 Context context = MainActivity.this;
-                
+
                 // TODO DONE (1) Store ChildActivity.class in a Class object called destinationActivity
                 Class destinationActivity = ChildActivity.class;
                 // TODO DONE (2) Create an Intent to start ChildActivity
