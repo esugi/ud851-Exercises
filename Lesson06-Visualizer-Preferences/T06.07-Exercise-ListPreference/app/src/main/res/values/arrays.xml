@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TODO DONE (3) Add a res->values->arrays.xml file which contains two arrays, one for
+    labels and one for values. The arrays should contain strings found in this file-->
+
+    <!-- Array of Color Labels for List Preference -->
+    <array name="pref_color_option_labels">
+        <item>@string/pref_color_label_red</item>
+        <item>@string/pref_color_label_blue</item>
+        <item>@string/pref_color_label_green</item>
+    </array>
+
+    <!-- Array of Color Values for List Preference -->
+    <array name="pref_color_option_values">
+        <item>@string/pref_color_red_value</item>
+        <item>@string/pref_color_blue_value</item>
+        <item>@string/pref_color_green_value</item>
+    </array>
+
+</resources>
